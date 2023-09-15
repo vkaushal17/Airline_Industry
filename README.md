@@ -19,7 +19,7 @@
    ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dg800.jpg/450px-Dg800.jpg)
 ## Propeller Aircraft
 * it is an aircraft where an airscrew spins on an axis aligned in the direction of travel to create thrust in a forward diretion
-    ![alt text]()
+  
 ## Jet Aircraft
 ## Rotor Craft
 
@@ -60,6 +60,24 @@
 * Takeoff Planning
 * Aircraft must also carry some reserve fuel to allow for unforeseen circumstances, such as an inaccurate weather forecast or air traffic control requiring an aircraft to fly at a lower height than optimum due to congestion or some last-minute passengers whose weight were not allowed for when the flight plan was prepared.
 * Flight Dispatch
-* It refers to the activities that relate to facilitating the operation of a flight which include pre-planning, in flight monitoring and ensuring that each flight reaches its final destinationin a safe and timely manner.
+* It refers to the activities that relate to facilitating the operation of a flight which include pre-planning, in-flight monitoring, and ensuring that each flight reaches its final destination in a safe and timely manner.
+* Factors that affect the flight dispatch
+* weather- (temp, wind direction, speed, barometric pressure)at the departure airport, along the route, at the dispatch airport, at the alternate airport
+* Fuel- total fuel consumed, additional fuel, required fuel for holding, fuel to an alternate airport
+* Aircraft- navigation limitations, max weight and balance limitations, performance
+* Aircrew- meet req qualifications for flight, meet req currency standards, have adequate rest
+* Fuel planning- weight limitations, manufacturer specified and actual, weather conditiond, payload, routing
+*   ![alt text](C:\Users\DELL\Pictures\Screenshots\Screenshot (264).png)
+*   Load Control- operating an airplane above max weight limitation compromises the structural integrity of the airplane and adversely affects its performance.
+*   Communication in Flight Operation:- Airline and Station messaging and TWLU, APIS, FLIFO
+
+  
+## Crew Scheduling
+* Explain crew scheduling?
+* Describe the communications in flight operations?
+* Explain movement control?
+
+* Load Control- operating an airplane above max weight can adversely affect its performance.
+  
   
 
