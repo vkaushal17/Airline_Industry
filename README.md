@@ -106,5 +106,23 @@
  * Standard feature- verifies reservation, checks in passengers, records additiona; passenger data, issues boarding/ bag tags, provides inter airline through check in, handles cod share flight by distingusing operating and marketing carrier
  * Functions- Facilitates operations / passengers data , allow immediate/deffered initialization, constructs flight check in records, allow setting of automatic numeric limits for acceptance based on PNL data
  * long haul- refers to more than 6 hrs of flying
-   
+
+## Airline Operations Control
+* Explain airline operation
+* Describe the message and event of flight operations
+* Identify the various terms used in flight operations
+* AOC- AIRLINES Operation control or OCC Operations control Center comprises of representatives from every section in the airline.
+* it works 24*7 to ensure that every flight is available at the airport of departure. its major functionality is disruption management
+* Mocc- Maintenance Operations control center- control aircraft maintenance activities
+* SOCC- station operations control centers- it controls station resources(gates, refueling, catering, ramp handling and passenger handling facilities)
+*
+*     Scheduling--->Flight Dispatch---->Crew Operations---->Meterology--------
+       ^                                                                  -
+       -                                                                  -                                                                                                                                                             Crew Accomodations<----Airport Customer Service<----Maintenance<----LoadControl
+  
+
+* Flight Operations:Events- Flights are schedule roughly six months prior to actual departure
+* MVT message are associated with events generated out of aircraft movement in flight route
+* There are 7 messages - OUT, OFF, ON, IN, ETD,EOG,ETA known as OOOI messages
+* 
  
