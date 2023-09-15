@@ -78,6 +78,33 @@
 * Explain movement control?
 
 * Load Control- operating an airplane above max weight can adversely affect its performance.
-  
-  
-
+* Communication in Flight Operation:- Airline and Station messaging and TWLU, APIS, FLIFO
+* Crew Scheduling- It is a process where crew members are assigned duties which could include flying, ground, and or standby duties over a fixed period which be fortnightly, monthly, or quarterly.
+* flying or cockpit - pilots who fly the aircraft
+* captain - the pilot in command aasisted by first officer(co-pilot), crew that serve in the cabin of the sircraft, refereed to as stewards or hostesses
+* while scheduling various factors taken in consideration :- government regulations, labour agreements, qualifications and licensing, bid requests.
+* The crew scheduling:- Flight scheduling- timetable of flights , Fleet Assignment- it is decidec based on various factors such as the voulme of passengers travelling, the type of passengers, Aircraft Routing- decision to route a particular aircraft within a specified fleet type.
+* Crew Rostering is the process of assigning individual crew members to crew pairings. The method that is followed in rostering is called the preferential bidding system.
+*        Airline Crew<-->Personal Preferences-----Union Contracts, Airline Rules, Govt Laws<-->Crew Planner
+                              -                             -
+                              -                             -
+                       Aircraft compatibility------------seniority
+                                              -
+                                           Personal Lines
+ * Crew pairing is the assignment of crew to a sequence of flight legs, within the same fleet, that starts and ends at the same crew base
+ * Cabin crew Regulation- there will be four-seven weeks in flight training
+ * cockpit crew regulations-
+ * new pilot qualification standards
+ * Movemenet Control- The continuous monitoring of all flight movements originating from, terminating into or transisting via a station is called movement control.
+ * Flights track, OOOI(out, off, on , in)
+ * Air Traffic Control - it ensure safe operation of commercial and private aircraft
+ * ATC PROCESSES 1.Preflight and takeoff, 2. Departure, En route, Descent, 3. Approach and landing
+ * Departure Control SystemsIt is an automated system to control and record passenger flight check-in/ boarding , aircraft weight and balance.
+ * IRE AND ACM - verification and updating of passenger and baggage upload data with reference to pnr
+ * leading DCS in the industry are SITA CUTE and amaeus altea.
+ * Features and functions of DCS
+ * Standard feature- verifies reservation, checks in passengers, records additiona; passenger data, issues boarding/ bag tags, provides inter airline through check in, handles cod share flight by distingusing operating and marketing carrier
+ * Functions- Facilitates operations / passengers data , allow immediate/deffered initialization, constructs flight check in records, allow setting of automatic numeric limits for acceptance based on PNL data
+ * long haul- refers to more than 6 hrs of flying
+   
+ 
