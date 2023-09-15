@@ -118,7 +118,8 @@
 *
 *     Scheduling--->Flight Dispatch---->Crew Operations---->Meterology--------
        ^                                                                  -
-       -                                                                  -                                                                                                                                                             Crew Accomodations<----Airport Customer Service<----Maintenance<----LoadControl
+       -                                                                  -
+      Crew Accomodations<----Airport Customer Service<----Maintenance<----LoadControl
   
 
 * Flight Operations:Events- Flights are schedule roughly six months prior to actual departure
